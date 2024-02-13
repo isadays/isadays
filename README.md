@@ -19,11 +19,10 @@ I study artificial neural networks architectures to improve the models accuracy.
 ## Skills
 
 - Programming Languages: Python, R, SQL, Mathematica, Qiskit.
-## Projects
+## Some Projects
 
-### [Project 1](Link to Project 1)
-- Description of Project 1.
+### [Project 1](https://github.com/isadays/Unsupervised-ML)
+- Unsupervised Machine Learning.
 
-### [Project 2](Link to Project 2)
-- Description of Project 2.
-
+### [Project 2](https://github.com/isadays/DeepLearning)
+- Deep Learning models . 
