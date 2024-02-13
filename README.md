@@ -1,9 +1,8 @@
-# Hello, World! 👋
+I'm Isabela, a physicist, data scientist and computer programmer. 
 
-I'm Isabela, a physicist, data scientist and computer programmer from Brazil. 
 ## About Me
 
-I'm passionate about Quantum and classical information theories. 
+Quantum and classical information theories. 
 
 ## Skills
 
