@@ -17,9 +17,8 @@ Quantum and classical information theories.
 
 ## Contact Me
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Handle](Link to Twitter)
+- Email: [isabeladiaspl@icloud.com]
+- LinkedIn: [(https://www.linkedin.com/in/diasplisabela/)](Link to LinkedIn)
 
 ## GitHub Stats
 
