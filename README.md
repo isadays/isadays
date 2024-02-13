@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>I'm Isabela, a physicist, data scientist and computer programmer. 
-    M.Sc. in quantum information at the University of São Paulo and M.B.A in Data Science and Analytics at the University of São Paulo.
+    M.Sc. in quantum information at the University of São Paulo and M.B.A in Data Science and Analytics at the University of São Paulo. I did an exchange year at the Uppsala University.
 </b><br>
 </p>
 
