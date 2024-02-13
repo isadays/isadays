@@ -10,6 +10,10 @@
 ## Interests
 
 My main interests are quantum and classical information theories. I study artificial neural networks architectures to improve the models accuracy. I build and develop data analysis models in Python and R to identify patterns. 
+$$
+\bracket{a + b} = c
+$$
+
 ## Skills
 
 - Programming Languages: Python, R, SQL, Mathematica, Qiskit.
