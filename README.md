@@ -9,8 +9,11 @@
 
 ## Interests
 
-My main interests are quantum and classical information theories. I study artificial neural networks architectures to improve the models accuracy. I build and develop data analysis models in Python and R to identify patterns. 
-The equation \( \bracket{a + b} \) represents the sum of \( a \) and \( b \).
+My main interests are quantum and classical information theories. 
+
+![GitHub Logo]([https://github.com/isadays/isadays/blob/main/githubpage.png](https://github.com/isadays/isadays/blob/main/CodeCogsEqn.png)
+
+I study artificial neural networks architectures to improve the models accuracy. I build and develop data analysis models in Python and R to identify patterns. 
 
 
 ## Skills
