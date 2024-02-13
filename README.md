@@ -1,11 +1,10 @@
 ![GitHub Logo](https://github.com/isadays/isadays/blob/main/githubpage.png)
 
-<div style="text-align:center">
 
-I'm Isabela, a physicist, data scientist and computer programmer. 
-
-</div>
-
+<p align="center">
+  <b>I'm Isabela, a physicist, data scientist and computer programmer. 
+</b><br>
+</p>
 
 ## About Me
 
