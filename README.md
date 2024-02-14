@@ -25,4 +25,8 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 - Unsupervised Machine Learning.
 
 ### [Project 2](https://github.com/isadays/DeepLearning)
-- Deep Learning models . 
+- Deep Learning models .
+
+## [Project 3](https://github.com/isadays/SystemSecurity)
+- Deep learning models applied to anomaly detection.
+
