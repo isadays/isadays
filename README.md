@@ -21,6 +21,9 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 - Programming Languages: Python, R, SQL, Mathematica, Qiskit.
 ## Some Projects
 
+### [Project - Energy](https://github.com/isadays/Energy)
+World Energy Outlook 2023 Free Dataset Includes world aggregated data for all three modelled scenarios (STEPS, APS, NZE) and selected data for key regions and countries for 2030, 2035, 2040 and 2050, as well as historical data (2010, 2021, 2022). We apply clustering and data cleaning to get some insights from the data.
+
 ### [Project - Credit Card Fraud Detection](https://github.com/isadays/CreditCardFraud)
 Credit Card Fraud detection with neural networks(anomaly detection) and machine learning techniques (random forest classifier)
 
