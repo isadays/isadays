@@ -46,7 +46,7 @@ Python scripts using the Visualization Toolkit (VTK) and Topology ToolKit (TTK) 
 Scripts in R. Logistic Models. In this project, we explore theoretical foundations, Model specification and canonical connection functions, Binary and multinomial logistic models, Estimation of parameters, etc.
 
 
-### [Projejct - Supervised ML I](https://github.com/isadays/Supervised-ML)
+### [Project - Supervised ML I](https://github.com/isadays/Supervised-ML)
 OLS. R and Python. In this project, we study fundamental concepts of Supervised ML models, such as Regression Analysis: Coefficient of Model Adjustment (R²), Parameters Estimation, Statistical Significance, etc. 
 
 ### [Project - Unsupervised ML](https://github.com/isadays/Unsupervised-ML)
