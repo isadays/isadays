@@ -13,7 +13,7 @@ My main interests are quantum and classical information theories.
 
 ![GitHub Logo](https://github.com/isadays/isadays/blob/main/CodeCogsEqn.png)
 
-I build and develop data analysis (and exploratory analysis) in Python and R to identify patterns. I study artificial neural networks architectures to improve the models accuracy. I love to simulate and interpret nature through equations and codes.
+I build and develop data analysis (and exploratory analysis) in Python and R to identify patterns. I study artificial neural network architectures to improve the models' accuracy. I love to simulate and interpret nature through equations and codes.
 
 
 ## Skills
@@ -21,8 +21,13 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 - Programming Languages: Python, R, SQL, Mathematica, Qiskit.
 ## Some Projects
 
+### [Project - Bayesian Inference](https://github.com/isadays/BayesianInference)
+I study robust decision-making in machine learning algorithms using Bayesian Inference in this project. Model 1 : Bayesian inference: Clinical Trials - predicting treatment outcomes using Bayesian inference.
+
+
+
 ### [Project - Energy](https://github.com/isadays/Energy)
-World Energy Outlook 2023 Free Dataset Includes world aggregated data for all three modelled scenarios (STEPS, APS, NZE) and selected data for key regions and countries for 2030, 2035, 2040 and 2050, as well as historical data (2010, 2021, 2022). We apply clustering and data cleaning to get some insights from the data.
+World Energy Outlook 2023 Free Dataset Includes world aggregated data for all three modeled scenarios (STEPS, APS, NZE) and selected data for key regions and countries for 2030, 2035, 2040, and 2050, as well as historical data (2010, 2021, 2022). We apply clustering and data cleaning to get some insights from the data.
 
 ### [Project - Credit Card Fraud Detection](https://github.com/isadays/CreditCardFraud)
 Credit Card Fraud detection with neural networks(anomaly detection) and machine learning techniques (random forest classifier)
