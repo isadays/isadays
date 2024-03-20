@@ -21,6 +21,9 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 - Programming Languages: Python, R, SQL, Mathematica, Qiskit.
 ## Some Projects
 
+### [Project - Transversal Quantum Gates](https://github.com/isadays/QuantumGates)
+Robustness of transversal quantum gates.
+
 ### [Project - Bayesian Inference](https://github.com/isadays/BayesianInference)
 I study robust decision-making in machine learning algorithms using Bayesian Inference in this project. Model 1 : Bayesian inference: Clinical Trials - predicting treatment outcomes using Bayesian inference.
 
