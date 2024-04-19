@@ -1,5 +1,3 @@
-![GitHub Logo](https://github.com/isadays/isadays/blob/main/githubpage.png)
-
 
 <p align="center">
   <b>I'm Isabela, a physicist, data scientist and computer programmer. 
