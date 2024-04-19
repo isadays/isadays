@@ -18,6 +18,8 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 
 - Programming Languages: Python, R, SQL, Mathematica, Qiskit.
 ## Some Projects
+### [Project -BB84 Protocol](https://github.com/isadays/BayesianInference](https://github.com/isadays/BB84-Protocol)
+Simulation of the BB84 Protocol using Qiskit.
 
 
 ### [Project - Bayesian Inference](https://github.com/isadays/BayesianInference)
