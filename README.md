@@ -18,4 +18,4 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 
 - Programming Languages & tools:
 
-![learned_tools](https://github.com/isadays/isadays/assets/59461869/a2a0fe42-206a-424c-b4c8-f7627e77bcf4)
+![learned_tools](https://github.com/isadays/isadays/assets/59461869/ef598ea3-55c5-4b2a-8d6b-3b42fbb85253)
