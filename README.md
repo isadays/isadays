@@ -1,5 +1,5 @@
 
-<p  style="color:Tomato;" align="center">
+<p color="LightPink" align="center">
   I'm Isabela, a physicist, data scientist and computer programmer. 
     M.Sc. in quantum information at the University of São Paulo and M.B.A in Data Science and Analytics at the University of São Paulo. I did an exchange year at the Uppsala University. 
 </b><br>
