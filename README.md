@@ -16,6 +16,6 @@ I build and develop data analysis (and exploratory analysis) in Python and R to 
 
 ## Skills
 
-- Programming Languages: Python, R, SQL, Mathematica, Qiskit.
+- Programming Languages & tools:
 
 ![learned_tools](https://github.com/isadays/isadays/assets/59461869/a2a0fe42-206a-424c-b4c8-f7627e77bcf4)
