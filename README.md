@@ -1,8 +1,8 @@
+![atom](https://github.com/isadays/isadays/assets/59461869/c7282920-9c96-4043-9f17-c89586cc1a3d)
 
 <p style="color:blue" align="center">
  I'm Isabela, a physicist, data scientist and computer programmer. 
-    M.Sc. in quantum information at the University of São Paulo and M.B.A in Data Science and Analytics at the University of São Paulo. I did an exchange year at the Uppsala University. ![atom](https://github.com/isadays/isadays/assets/59461869/c7282920-9c96-4043-9f17-c89586cc1a3d)
-
+    M.Sc. in quantum information at the University of São Paulo and M.B.A in Data Science and Analytics at the University of São Paulo. I did an exchange year at the Uppsala University. 
 </b><br>
 </p>
 
