@@ -8,8 +8,7 @@
 ## Interests
 
 My main interests are quantum and classical information theories. 
-
-![GitHub Logo](https://github.com/isadays/isadays/blob/main/CodeCogsEqn.png)
+![Coarse_graining](https://github.com/isadays/isadays/assets/59461869/74d74419-2e9b-4c1a-ad91-fda6c0b02a58)
 
 I build and develop data analysis (and exploratory analysis) in Python and R to identify patterns. I study artificial neural network architectures to improve the models' accuracy. I love to simulate and interpret nature through equations and codes.
 
