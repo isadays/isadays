@@ -5,7 +5,6 @@
 </p>
 
 ## Interests
-~ I have decided to take a break from my academic work and focus on my data scientist path. ~
 I build and develop data analysis (and exploratory analysis) in Python, R, and SQL to identify patterns. I am a neural network specialist and study artificial neural network architectures to improve the models' accuracy. I love to simulate and interpret nature through equations and codes.
 
 
