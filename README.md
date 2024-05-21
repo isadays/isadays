@@ -48,7 +48,7 @@ I build and develop data analysis (and exploratory analysis) in Python, R, and S
 
 ---
 
-## Projects
+<h2 style="color: #500021;">Projects</h2>
 
 ### Quantum Technologies
 - [Error Correction Protocol](https://github.com/isadays/ErrorCorrection): Implementation of a quantum error correction protocol using Qiskit, with potential application in financial portfolio optimization.
