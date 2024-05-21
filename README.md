@@ -54,25 +54,3 @@
 
 ---
 
-<h2 align="center" style="color: #500021;">Projects</h2>
-
-<h3>Quantum Technologies</h3>
-<ul>
-  <li><a href="https://github.com/isadays/ErrorCorrection">Error Correction Protocol</a>: Implementation of a quantum error correction protocol using Qiskit, with potential application in financial portfolio optimization.</li>
-  <li><a href="https://github.com/isadays/Non-MarkovianDynamics">Quantum Dynamics</a>: Modeling the dynamics of time-dependent non-Markovian master equations using Qutip's Monte Carlo solver, applicable to financial risk simulations.</li>
-  <li><a href="https://github.com/isadays/BB84-Protocol">Quantum Cryptography Protocol</a>: Simulation of the BB84 quantum cryptography protocol. Banks such as Santander and Itaú are focusing on this direction to improve data security.</li>
-</ul>
-
-<h3>Data Science and Analysis</h3>
-<ul>
-  <li><a href="https://github.com/isadays/IDA--Historical-Data">IDA - Historical Data</a>: Development of data cleaning, exploratory analysis, and predictive modeling for international debt acquisition prediction (IDA). Database creation using SQLAlchemy and dashboard development using PowerBI. Libraries: Sklearn, Seaborn, Matplotlib, Numpy, Pandas. Direct applications in credit analysis and banking risk.</li>
-  <li><a href="https://github.com/isadays/BayesianInference/">Bayesian Inference</a>: Prediction of treatment success rates for new tuberculosis cases using PCA and Bayesian Inference, techniques applicable to financial market forecasting and risk analysis.</li>
-  <li><a href="https://github.com/isadays/CreditCardFraud">Credit Card Fraud</a>: Development of an ML model to detect fraudulent credit card transactions. The implementation of an autoencoder achieved an MSE of 0.0185. Performance was significantly improved using a Random Forest Classifier, with 90% precision and an F1-score of 0.93. Relevant for fraud detection systems in financial institutions.</li>
-  <li><a href="https://github.com/isadays/Energy">World Energy Outlook</a>: Processing, cleaning, and analyzing energy data from multiple Excel sheets, focusing on coal, natural gas, and energy generation types. Uses advanced techniques like PCA, autoencoders, and clustering, providing valuable insights and clear visualizations for effective energy planning. Applicable to financial analysis of commodities and energy markets.</li>
-  <li><a href="https://github.com/isadays/DeepLearning">Deep Learning in R</a>: Finance, stock prediction, image processing, weather forecasting, and real estate. The provided R scripts demonstrate the use of advanced machine learning techniques, such as neural networks (including RNNs), decision trees, and Restricted Boltzmann Machines. Directly relevant to financial market forecasting and investment analysis.</li>
-  <li><a href="https://github.com/isadays/Supervised-MLII">Supervised Learning II, I</a>: Binary and multinomial logistic models, parameter estimation by maximum likelihood, Cutoff, sensitivity, specificity, ROC curve, and GINI index. Techniques applicable to credit risk models and customer evaluation in banks.</li>
-  <li><a href="https://github.com/isadays/Unsupervised-ML">Unsupervised Machine Learning</a>: Clustering, Factor Analysis, and Correspondence Analysis. Applicable to customer segmentation and behavior analysis in banks.</li>
-</ul>
-
----
-
