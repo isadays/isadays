@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/isadays/isadays/assets/59461869/ef598ea3-55c5-4b2a-8d6b-3b42fbb85253" alt="Isabela Dias" style="width:200px; height:auto;">
+  <img src="https://github.com/isadays/isadays/assets/59461869/ef598ea3-55c5-4b2a-8d6b-3b42fbb85253" alt="Isabela Dias" style="width:800px; height:auto;">
 </p>
 
 <p align="center">
