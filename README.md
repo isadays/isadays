@@ -33,11 +33,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Scikit-learn</li>
-  <li>TensorFlow</li>
-  <li>Matplotlib</li>
-  <li>R packages</li>
-  <li>SQLAlchemy</li>
 </ul>
 
 <h3>Certifications</h3>
