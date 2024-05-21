@@ -34,6 +34,7 @@ I build and develop data analysis (and exploratory analysis) in Python, R, and S
 ### Certifications
 - Database Management (University of Colorado, 2024)
 - Spark, Hadoop, and Snowflake for Data Engineering (Duke University, 2024)
+- Applied Ai with deep learning (IBM,2024).
 - Advanced Machine Learning and Signal Processing (IBM, 2024)
 - Quantum Computing Software Module (Womanium, 2023)
 - Quantum Key Distribution - Intermediate Level (Womanium, 2023)
