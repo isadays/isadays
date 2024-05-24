@@ -7,13 +7,9 @@
 <p align="center" style="color: #0D3B66;">
   <b>I'm Isabela, a physicist, data scientist, and computer programmer.</b><br>
   "Welcome to the 21st century where quantum is better " ~ Isabela. 
+  
   M.Sc. in Quantum Information and M.B.A in Data Science and Analytics from the University of São Paulo. I did an exchange year at the Uppsala University.
 </p>
-
----
-
-<h2 align="center" style="color: #500021;">Interests</h2>
-<p>I build and develop data analysis (and exploratory analysis) in Python, R, and SQL to identify patterns. I am a neural network specialist and study artificial neural network architectures to improve the models' accuracy. I love to simulate and interpret nature through equations and codes.</p>
 
 ---
 
