@@ -6,6 +6,7 @@
 
 <p align="center" style="color: #0D3B66;">
   <b>I'm Isabela, a physicist, data scientist, and computer programmer.</b><br>
+  "Welcome to the 21st century where quantum is better " ~ Isabela. 
   M.Sc. in Quantum Information and M.B.A in Data Science and Analytics from the University of São Paulo. I did an exchange year at the Uppsala University.
 </p>
 
@@ -33,23 +34,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-</ul>
-
-<h3>Certifications</h3>
-<ul>
-  <li>Database Management (University of Colorado, 2024)</li>
-  <li>Spark, Hadoop, and Snowflake for Data Engineering (Duke University, 2024)</li>
-  <li>Applied AI with Deep Learning (IBM, 2024)</li>
-  <li>Advanced Machine Learning and Signal Processing (IBM, 2024)</li>
-  <li>Quantum Computing Software Module (Womanium, 2023)</li>
-  <li>Quantum Key Distribution - Intermediate Level (Womanium, 2023)</li>
-  <li>Basic Swedish (Uppsala University, 2023)</li>
-  <li>Fundamentals of Information Security (MBA Experience, 2023)</li>
-  <li>Real-world Applications of Blockchain - Web 3 and DeFi (MBA Experience, 2022)</li>
-  <li>Fundamentals of Scalable Data Science (IBM, 2022)</li>
-  <li>Applied Machine Learning in Python (University of Michigan, 2022)</li>
-  <li>Applied Data Visualization (University of Michigan, 2022)</li>
-  <li>Advanced Calculus (University of São Paulo, 2022)</li>
 </ul>
 
 ---
