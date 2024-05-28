@@ -16,19 +16,7 @@
 
 <h3>Programming Languages & Tools:</h3>
 <ul>
-  <li>Python</li>
-  <li>R</li>
-  <li>SQL</li>
-  <li>C++/C</li>
-  <li>Java</li>
-  <li>Mathematica</li>
-  <li>Qiskit</li>
-  <li>LaTeX</li>
-  <li>PowerBI</li>
-  <li>Tableau</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li>Python | R | SQL | C++ | Java | Mathematica| Qiskit | LaTeX | PowerBI | Tableau | HTML | CSS | JavaScript </li>
 </ul>
 
 ---
