@@ -12,7 +12,7 @@
 
 ---
 
-<h3> I am working on an independent project: Quantum neural networks applied to finance and energy. </h3>
+<h5> I am working on an independent project: Quantum neural networks applied to finance and energy. </h3>
 
 ---
 
