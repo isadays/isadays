@@ -11,7 +11,9 @@
 </p>
 
 ---
-I am working on an independent project: Quantum neural networks applied to finance and energy. 
+
+<h3> I am working on an independent project: Quantum neural networks applied to finance and energy. </h3>
+
 ---
 
 <h2 align="center" style="color: #500021;">Skills</h2>
