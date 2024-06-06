@@ -30,11 +30,10 @@
 ---
 
 
-## Certifications
+### Summary of Certifications
 
-### IBM Data Science Professional Certificate
 <a href="https://www.ibm.com/certify/">
-  <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional Certificate">
+  <img src="https://img.shields.io/badge/Advanced%20Data%20Science%20Professional%20Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional Certificate">
 </a>
 - Comprehensive training in data science methodologies and hands-on experience with IBM's tools and platforms.
 
