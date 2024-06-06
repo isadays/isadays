@@ -33,7 +33,7 @@
 ### Summary of Certifications
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UBWGZH5AVJM6">
-  <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-black?style=for-the-badge&logo=ibm&logoColor=white" alt="Advanced Data Science Professional Certificate">
+  <img src="https://img.shields.io/badge/IBM-Advanced%20Data%20Science%20Professional%20Certificate-black?style=for-the-badge&logo=ibm&logoColor=white" alt="Advanced Data Science Professional Certificate">
   </a>
       <a href="https://www.linkedin.com/in/diasplisabela/details/certifications/">
     <img src="https://img.shields.io/badge/WOMANIUM-Quantum_Computing_Software_Certificate-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Computing Software Certificate">
