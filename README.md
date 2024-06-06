@@ -1,5 +1,9 @@
 
-
+<p align="center" style="color: #0D3B66;">
+  <b>I'm Isabela, a quantum physicist, data scientist, and computer programmer.</b><br>
+  
+  M.Sc. in Quantum Information and M.B.A in Data Science and Analytics from the University of São Paulo. I did an exchange year at the Uppsala University.
+</p>
 <p align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -18,13 +22,6 @@
 
 
 </p>
-
-<p align="center" style="color: #0D3B66;">
-  <b>I'm Isabela, a quantum physicist, data scientist, and computer programmer.</b><br>
-  
-  M.Sc. in Quantum Information and M.B.A in Data Science and Analytics from the University of São Paulo. I did an exchange year at the Uppsala University.
-</p>
-
 ---
 
 <h5> I am working on an independent project: Quantum neural networks applied to finance and energy. </h3>
