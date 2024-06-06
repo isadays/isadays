@@ -44,6 +44,7 @@
    <a href="https://www.coursera.org/account/accomplishments/verify/5AWRJCVN2C86">
     <img src="https://img.shields.io/badge/University_of_Michigan-Applied_Machine_Learning_in_Python-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Applied Machine Learning in Python">
 </a>
+
  <a href="https://www.linkedin.com/company/24978546/">
     <img src="https://img.shields.io/badge/ETEC-Systems_Development_Technician-black?style=for-the-badge&logo=etec&logoColor=white" alt="Systems Development Technician">
   </a>
