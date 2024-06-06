@@ -34,3 +34,5 @@
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UBWGZH5AVJM6">
   <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Advanced Data Science Professional Certificate">
+   <a href="https://www.coursera.org/account/accomplishments/verify/5AWRJCVN2C86">
+    <img src="https://img.shields.io/badge/University_of_Michigan-Applied_Machine_Learning_in_Python-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Applied Machine Learning in Python">
