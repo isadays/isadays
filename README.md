@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<h5 align="center"> I build predictive models for both quantum and classical worlds </h5>
 <h5 align="center"> I am working on an independent project: Quantum neural networks applied to finance and energy. </h5>
 
 ---
