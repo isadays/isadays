@@ -45,6 +45,9 @@
   <a href="https://www.coursera.org/account/accomplishments/verify/JSZ66M47HBYW">
     <img src="https://img.shields.io/badge/Duke_University-Financial_Risk_Management_with_R-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Financial Risk Management with R">
   </a>
+      <a href="https://www.coursera.org/account/accomplishments/verify/54Z79BFZ6XFY">
+    <img src="https://img.shields.io/badge/Duke_University-Scripting_with_Python_and_SQL_for_Data_Engineering-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Spark, Hadoop, and Snowflake for Data Engineering">
+  </a>
     <a href="https://www.coursera.org/account/accomplishments/certificate/NEVR7AAXYVPE">
     <img src="https://img.shields.io/badge/Duke_University-Spark_Hadoop_and_Snowflake_for_Data_Engineering-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Spark, Hadoop, and Snowflake for Data Engineering">
   </a>
