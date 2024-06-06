@@ -3,8 +3,6 @@
   <b>I'm Isabela, a quantum physicist, data scientist, and computer programmer.</b><br>
   
   M.Sc. in Quantum Information and M.B.A in Data Science and Analytics from the University of São Paulo. I did an exchange year at the Uppsala University.
-</p>
-<p align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=matlab&logoColor=white)
@@ -18,8 +16,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-
 
 </p>
 ---
