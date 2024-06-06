@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Matlab-0076A8?logo=matlab&logoColor=white" alt="Matlab">
+  <img src="https://img.shields.io/badge/QuTiP-black?logo=qulacs&logoColor=white" alt="QuTiP">
   <img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white" alt="Mathematica">
   <img src="https://img.shields.io/badge/SymPy-3D550C?logo=sympy&logoColor=white" alt="SymPy">
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras">
