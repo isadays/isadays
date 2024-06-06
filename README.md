@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://github.com/isadays/isadays/blob/main/Qutip_logo.png" alt="QuTiP" width="80" height="40">
 </p>
 
 ---
