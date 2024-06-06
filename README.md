@@ -38,6 +38,10 @@
       <a href="https://www.linkedin.com/in/diasplisabela/details/certifications/">
     <img src="https://img.shields.io/badge/WOMANIUM-Quantum_Computing_Software_Certificate-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Computing Software Certificate">
   </a>
+<a href="https://www.linkedin.com/in/diasplisabela/details/certifications/">
+    <img src="https://img.shields.io/badge/WOMANIUM-Quantum_Key_Distribution_Certificate-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Key Distribution Certificate">
+  </a>
+  
   <a href="https://www.coursera.org/account/accomplishments/verify/JSZ66M47HBYW">
     <img src="https://img.shields.io/badge/Duke_University-Financial_Risk_Management_with_R-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Financial Risk Management with R">
   </a>
