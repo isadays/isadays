@@ -1,7 +1,22 @@
 
 
 <p align="center">
-  <img src="https://github.com/isadays/isadays/assets/59461869/ef598ea3-55c5-4b2a-8d6b-3b42fbb85253" alt="Isabela Dias" style="width:800px; height:auto;">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=matlab&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3D550C?logo=sympy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-black?logo=qiskit&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+
+
+
 </p>
 
 <p align="center" style="color: #0D3B66;">
@@ -24,20 +39,4 @@
 </ul>
 
 ---
-## Technologies and Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=matlab&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3D550C?logo=sympy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-black?logo=qiskit&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-
 
