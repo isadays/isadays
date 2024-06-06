@@ -25,6 +25,6 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadays&layout=compact)
-![Qiskit](https://img.shields.io/badge/Qiskit-%230067EB?logo=qiskit&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-black?logo=qiskit&logoColor=white)
 
 
