@@ -24,10 +24,3 @@
 
 ---
 
-<h2 align="center" style="color: #500021;">Skills</h2>
-
-<h3>Programming Languages & Tools:</h3>
-<ul>
-  <li>Python | R | SQL | C++ | Java | Mathematica | Qiskit | LaTeX | PowerBI | Tableau | HTML | CSS | JavaScript</li>
-</ul>
-
