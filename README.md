@@ -33,15 +33,15 @@
 ### Summary of Certifications
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UBWGZH5AVJM6">
-  <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Advanced Data Science Professional Certificate">
+  <img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-black?style=for-the-badge&logo=ibm&logoColor=white" alt="Advanced Data Science Professional Certificate">
   </a>
       <a href="https://www.linkedin.com/in/diasplisabela/details/certifications/">
     <img src="https://img.shields.io/badge/WOMANIUM-Quantum_Computing_Software_Certificate-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Computing Software Certificate">
   </a>
   <a href="https://www.coursera.org/account/accomplishments/verify/JSZ66M47HBYW">
-    <img src="https://img.shields.io/badge/Duke_University-Financial_Risk_Management_with_R-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Financial Risk Management with R">
+    <img src="https://img.shields.io/badge/Duke_University-Financial_Risk_Management_with_R-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Financial Risk Management with R">
   </a>
    <a href="https://www.coursera.org/account/accomplishments/verify/5AWRJCVN2C86">
-    <img src="https://img.shields.io/badge/University_of_Michigan-Applied_Machine_Learning_in_Python-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Applied Machine Learning in Python">
+    <img src="https://img.shields.io/badge/University_of_Michigan-Applied_Machine_Learning_in_Python-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Applied Machine Learning in Python">
 </a>
 
