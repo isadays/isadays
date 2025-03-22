@@ -12,10 +12,8 @@
 
 
 <p align="center" style="color: #0D3B66;">
-  <b>I'm Isabela.
-  Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo
-
-</p>
+  <b>I'm Isabela. </b></p>
+ <p> Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
