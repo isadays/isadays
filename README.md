@@ -24,7 +24,7 @@
 </p>
 
 ---
-<h5 align="center"> I build predictive models for both quantum and classical worlds </h5>
+<h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
 ---
 
 
