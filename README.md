@@ -1,3 +1,14 @@
+<p align="center" style="color: #0D3B66;">
+  <b>I'm Isabela. </b></p>
+ <p> Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo</p>
+
+
+🌟 About Me 🌟
+---
+<h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
+---
+🛠️ Core Skills & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -8,14 +19,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-</p>
-
-
-<p align="center" style="color: #0D3B66;">
-  <b>I'm Isabela. </b></p>
- <p> Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
@@ -23,17 +26,10 @@
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white" alt="Mathematica">
     <img src="https://img.shields.io/badge/Qiskit-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit">
   <img src="https://img.shields.io/badge/SymPy-3D550C?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy">
-  </p>
+</p>
 
 
-
----
-<h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
----
-  <h5 align="center"> M.Sc. in Quantum Information and M.B.A in Data Science \& Analytics, University of São Paulo.</h5>
----
-
-### Summary of Certifications - TECH & QUANTUM
+### Certifications - TECH & QUANTUM
 <a href="https://www.coursera.org/account/accomplishments/verify/DKATX1UP411C">
   <img src="https://img.shields.io/badge/Neural%20Networks%20and%20Deep%20Learning%20Certificate-black?style=for-the-badge&logo=DeepLearningAI&logoColor=white" alt="Neural Networks and Deep Learning">
   
