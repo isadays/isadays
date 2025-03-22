@@ -1,13 +1,12 @@
+## 🌟 About Me 🌟 
 <p align="center" style="color: #0D3B66;">
   <b>I'm Isabela. </b></p>
  <p> Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo</p>
 
-
-🌟 About Me 🌟
----
 <h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
 ---
-🛠️ Core Skills & Technologies
+
+## 🛠️ Core Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -29,7 +28,7 @@
 </p>
 
 
-### Certifications - TECH & QUANTUM
+### 🎓 Certifications - TECH & QUANTUM
 <a href="https://www.coursera.org/account/accomplishments/verify/DKATX1UP411C">
   <img src="https://img.shields.io/badge/Neural%20Networks%20and%20Deep%20Learning%20Certificate-black?style=for-the-badge&logo=DeepLearningAI&logoColor=white" alt="Neural Networks and Deep Learning">
   
