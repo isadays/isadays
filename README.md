@@ -12,7 +12,8 @@
 
 
 <p align="center" style="color: #0D3B66;">
-  <b>I'm Isabela, a quantum physicist, data scientist \& and computer programmer.</b><br>
+  <b>I'm Isabela.
+  Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo
 
 </p>
 
