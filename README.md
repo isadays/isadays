@@ -26,6 +26,7 @@
 
 
 ### 🎓 Certifications - TECH & QUANTUM
+
 <a href="https://www.coursera.org/account/accomplishments/verify/DKATX1UP411C">
   <img src="https://img.shields.io/badge/Neural%20Networks%20and%20Deep%20Learning%20Certificate-black?style=for-the-badge&logo=DeepLearningAI&logoColor=white" alt="Neural Networks and Deep Learning">
   
