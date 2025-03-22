@@ -1,7 +1,7 @@
 <p align="center" style="color: #0D3B66;">
-  <b>I'm Isabela, a quantum physicist, data scientist, and computer programmer.</b><br>
+  <b>I'm Isabela, a quantum physicist, data scientist \& and computer programmer.</b><br>
   
-  M.Sc. in Quantum Information and M.B.A in Data Science \& Analytics at the University of São Paulo. I did an exchange year at the Uppsala University. Technical Studies-Software Development
+  M.Sc. in Quantum Information and M.B.A in Data Science \& Analytics, University of São Paulo.
 </p>
 
 <p align="center">
@@ -25,8 +25,6 @@
 
 ---
 <h5 align="center"> I build predictive models for both quantum and classical worlds </h5>
-<h5 align="center"> I am working on an independent project: Quantum neural networks applied to finance and energy. </h5>
-
 ---
 
 
