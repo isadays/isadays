@@ -1,10 +1,7 @@
 ## 🌟 About Me 🌟 
 <p align="center" style="color: #0D3B66;">
-  <b>I'm Isabela. </b></p>
  Quantum Physicist | Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo
----
 <h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
----
 
 ## 🛠️ Core Skills & Technologies
 
