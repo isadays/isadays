@@ -13,7 +13,7 @@
 
 <p align="center" style="color: #0D3B66;">
   <b>I'm Isabela, a quantum physicist, data scientist \& and computer programmer.</b><br>
-  
+
 </p>
 
 <p align="center">
@@ -32,6 +32,7 @@
 <h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
 ---
   M.Sc. in Quantum Information and M.B.A in Data Science \& Analytics, University of São Paulo.
+---
 
 ### Summary of Certifications - TECH & QUANTUM
 <a href="https://www.coursera.org/account/accomplishments/verify/DKATX1UP411C">
