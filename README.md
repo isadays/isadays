@@ -31,7 +31,7 @@
 ---
 <h5 align="center"> I love to develop transformer-based neural network models. I build predictive models for both quantum and classical worlds. </h5>
 ---
-  M.Sc. in Quantum Information and M.B.A in Data Science \& Analytics, University of São Paulo.
+  <h5 align="center"> M.Sc. in Quantum Information and M.B.A in Data Science \& Analytics, University of São Paulo.</h5>
 ---
 
 ### Summary of Certifications - TECH & QUANTUM
