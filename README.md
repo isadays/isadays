@@ -1,7 +1,8 @@
 ## 🌟 About Me 🌟 
 <p align="center" style="color: #0D3B66;">
  Quantum Physicist | Machine Learning Engineer|Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo
-## 🛠️ Core Skills & Technologies
+
+ ## 🛠️ Core Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
