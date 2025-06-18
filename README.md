@@ -23,4 +23,3 @@
     <img src="https://img.shields.io/badge/Qiskit-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit">
   <img src="https://img.shields.io/badge/SymPy-3D550C?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy">
 </p>
-
