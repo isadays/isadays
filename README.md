@@ -24,35 +24,3 @@
   <img src="https://img.shields.io/badge/SymPy-3D550C?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy">
 </p>
 
-
-### 🎓 Certifications - TECH & QUANTUM
-
-<a href="https://www.coursera.org/account/accomplishments/verify/DKATX1UP411C">
-  <img src="https://img.shields.io/badge/Neural%20Networks%20and%20Deep%20Learning%20Certificate-black?style=for-the-badge&logo=DeepLearningAI&logoColor=white" alt="Neural Networks and Deep Learning">
-  
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UBWGZH5AVJM6">
-  <img src="https://img.shields.io/badge/IBM-Advanced%20Data%20Science%20Professional%20Certificate-black?style=for-the-badge&logo=ibm&logoColor=white" alt="Advanced Data Science Professional Certificate">
-  </a>
-      <a href="https://www.linkedin.com/in/diasplisabela/details/certifications/">
-    <img src="https://img.shields.io/badge/WOMANIUM-Quantum_Computing_Software_Certificate-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Computing Software Certificate">
-  </a>
-<a href="https://www.linkedin.com/in/diasplisabela/details/certifications/">
-    <img src="https://img.shields.io/badge/WOMANIUM-Quantum_Key_Distribution_Certificate-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum Key Distribution Certificate">
-  </a>
-  
-  <a href="https://www.coursera.org/account/accomplishments/verify/JSZ66M47HBYW">
-    <img src="https://img.shields.io/badge/Duke_University-Financial_Risk_Management_with_R-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Financial Risk Management with R">
-  </a>
-      <a href="https://www.coursera.org/account/accomplishments/verify/54Z79BFZ6XFY">
-    <img src="https://img.shields.io/badge/Duke_University-Scripting_with_Python_and_SQL_for_Data_Engineering-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Spark, Hadoop, and Snowflake for Data Engineering">
-  </a>
-    <a href="https://www.coursera.org/account/accomplishments/certificate/NEVR7AAXYVPE">
-    <img src="https://img.shields.io/badge/Duke_University-Spark_Hadoop_and_Snowflake_for_Data_Engineering-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Spark, Hadoop, and Snowflake for Data Engineering">
-  </a>
-   <a href="https://www.coursera.org/account/accomplishments/verify/5AWRJCVN2C86">
-    <img src="https://img.shields.io/badge/University_of_Michigan-Applied_Machine_Learning_in_Python-black?style=for-the-badge&logo=coursera&logoColor=white" alt="Applied Machine Learning in Python">
-</a>
-
- <a href="https://www.linkedin.com/company/24978546/">
-    <img src="https://img.shields.io/badge/ETEC-Systems_Development_Professional_Certificate-black?style=for-the-badge&logo=etec&logoColor=white" alt="Systems Development Technician">
-  </a>
