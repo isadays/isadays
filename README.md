@@ -1,8 +1,6 @@
 ## 🌟 About Me 🌟 
 <p align="center" style="color: #0D3B66;">
  Quantum Physicist | Machine Learning Engineer|Data Scientist | Computer Programmer|M.Sc. Quantum Information | M.B.A. Data Science & Analytics | University of São Paulo
-<h5 align="center"> I build models for both quantum and classical worlds. </h5>
-
 ## 🛠️ Core Skills & Technologies
 
 <p align="center">
@@ -23,3 +21,5 @@
     <img src="https://img.shields.io/badge/Qiskit-black?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit">
   <img src="https://img.shields.io/badge/SymPy-3D550C?style=for-the-badge&logo=sympy&logoColor=white" alt="SymPy">
 </p>
+
+<h5 align="center"> I build models for both quantum and classical worlds. </h5>
