@@ -37,5 +37,3 @@ I build production ML systems — from training pipelines to monitored deploymen
 - **[Project name]** — [Quantum ML or research-to-production bridge]
 
 ---
-
-📍 São Paulo → open to Stockholm  ·  [linkedin.com/in/yourprofile]()
