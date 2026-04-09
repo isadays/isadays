@@ -98,8 +98,7 @@
 
 ### About
 
-ML Engineer with 3 years of experience shipping classical models, MLOps pipelines, and LLM applications to production. I hold an M.Sc. in Quantum Information and an M.B.A. in Data Science & Analytics from the University of São Paulo — a combination that shapes how I think about uncertainty, system design, and business trade-offs. Currently based in Brazil and relocating to Stockholm, where I am looking to contribute to teams building reliable, scalable ML systems.
-
+ML Engineer with experience shipping classical models, MLOps pipelines, and LLM applications to production. I hold an M.Sc. in Quantum Information and an M.B.A. in Data Science & Analytics from the University of São Paulo — a combination that shapes how I think about uncertainty, system design, and business trade-offs. 
 ---
 
 ### Selected projects
