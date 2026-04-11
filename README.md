@@ -65,6 +65,8 @@
     <td valign="top" width="33%">
       <b>GenAI</b><br/><br/>
       <img src="https://img.shields.io/badge/LangChain-F1EFE8?style=flat&color=F1EFE8&labelColor=F1EFE8&logoColor=444441"/>
+       <img src="https://img.shields.io/badge/LangSmith-F1EFE8?style=flat&color=F1EFE8&labelColor=F1EFE8&logoColor=444441"/>
+       <img src="https://img.shields.io/badge/Langfuse-F1EFE8?style=flat&color=F1EFE8&labelColor=F1EFE8&logoColor=444441"/>
       <img src="https://img.shields.io/badge/RAG-F1EFE8?style=flat&color=F1EFE8&labelColor=F1EFE8&logoColor=444441"/>
       <br/>
       <img src="https://img.shields.io/badge/Fine--tuning-F1EFE8?style=flat&color=F1EFE8&labelColor=F1EFE8&logoColor=444441"/>
@@ -98,7 +100,7 @@
 
 ### About
 
-ML Engineer with experience shipping classical models, MLOps pipelines, and LLM applications to production. I hold an M.Sc. in Quantum Information and an M.B.A. in Data Science & Analytics from the University of São Paulo — a combination that shapes how I think about uncertainty, system design, and business trade-offs. 
+ML Engineer with experience shipping classical models, MLOps pipelines, and LLM applications to production. I hold an M.Sc. in Quantum Information and an M.B.A. in Data Science & Analytics from the University of São Paulo.  
 ---
 
 
