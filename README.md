@@ -101,11 +101,4 @@
 ML Engineer with experience shipping classical models, MLOps pipelines, and LLM applications to production. I hold an M.Sc. in Quantum Information and an M.B.A. in Data Science & Analytics from the University of São Paulo — a combination that shapes how I think about uncertainty, system design, and business trade-offs. 
 ---
 
-### Selected projects
-
-- **[Project name]** — one line: what it does, what model/infra, measurable outcome
-- **[Project name]** — GenAI or MLOps angle
-- **[Project name]** — quantum ML or research-to-production bridge
-
----
 
