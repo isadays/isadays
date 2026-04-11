@@ -2,7 +2,7 @@
 
 <h1>Isabela Dias</h1>
 
-<p>ML Engineer · MLOps · GenAI &nbsp;|&nbsp;</p>
+<p>ML Engineer · MLOps · GenAI &nbsp;&nbsp;</p>
 
 ![Production ML](https://img.shields.io/badge/●%20Production%20ML-E6F1FB?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=185FA5)
 ![MLOps](https://img.shields.io/badge/●%20MLOps-E1F5EE?style=flat&color=E1F5EE)
