@@ -18,21 +18,6 @@
 
 ---
 
-## About
-
-- **Agentic & GenAI Engineer at IBM**, building the evaluation framework that gates 16 production systems — deterministic pre-filters plus six LLM-as-Judge scorers, shipped as a reusable SDK.
-- **Owns the full ML lifecycle** — data, modelling, deployment, monitoring, iteration — for models that decide who gets targeted with what: 15+ live models serving 18.2M+ customers.
-- **Engineering over intuition**: 40% inference latency cut on a re-architected serving path, 70% compute saving on distributed tuning, 24× faster benchmarks on an async harness running 100K+ model calls.
-- **Measurement designed as carefully as the model** — canary rollouts, champion–challenger evaluation, drift monitoring and quality gates on every promotion.
-- **Physics and mathematics background** (M.Sc. in quantum information & computation, USP; exchange year at Uppsala) applied to experimentation and modelling rigour.
-
----
-
-## Now
-
-Scaling offline evaluation for agentic systems — event-driven pipelines that auto-open incidents on metric regression, and benchmark harnesses that settle model-selection decisions on measured output determinism rather than opinion.
-
----
 
 ## Tech Stack
 
@@ -75,17 +60,6 @@ Scaling offline evaluation for agentic systems — event-driven pipelines that a
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logo=tracemoe&logoColor=white&labelColor=0D1117)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B&labelColor=0D1117)
-
----
-
-## Featured Work
-
-| Project | What it does | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **LLM Evaluation SDK** | Reusable evaluation framework gating 16 production systems — deterministic pre-filters combined with six LLM-as-Judge scorers, catching quality regressions before release. | Python · LangChain · Langfuse · Bedrock | [Code](#) |
-| **Agentic Trace Pipeline** | Event-driven offline evaluation at ~10M traces/day that auto-opens incidents on metric regression and reports to system owners. | EventBridge · Lambda · AWS Batch · ClickHouse | [Code](#) |
-| **Async Benchmark Harness** | Cut benchmark runtime 24× to under two hours across 100K+ model calls, settling model selection on measured output determinism (92% vs 87%). | Python · asyncio · vLLM · Bedrock | [Code](#) |
-| **Distributed Tuning SDK** | Hyperparameter tuning on Spot fleets — 70% compute cost reduction, adopted team-wide as the standard experimentation framework. | SageMaker · Optuna · MLflow · Terraform | [Code](#) |
 
 ---
 
