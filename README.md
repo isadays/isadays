@@ -1,110 +1,142 @@
-<h1 align="center">Isabela Pereira Dias</h1>
-<h3 align="center">Senior Machine Learning Engineer · Ranking, Targeting & Experimentation at Scale</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=9D7CFF&center=true&vCenter=true&width=680&lines=Agentic+%26+GenAI+Engineer+%40+IBM;Evaluation+frameworks+gating+16+production+systems;Propensity+models+scoring+18M%2B+customers;Full+lifecycle+ML+%E2%80%94+data+to+drift+monitoring" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1&pause=100000&color=E9D5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=Isabela+Pereira+Dias" alt="Isabela Pereira Dias" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-GenAI%20%26%20Multi--Agent%20Systems-9D7CFF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Building%20with-AWS%20%26%20Python-F59E0B?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-~10M%20traces%2Fday-22D3EE?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-open%20to%20Stockholm-64748B?style=for-the-badge&labelColor=0D1117" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1600&color=A78BFA&center=true&vCenter=true&width=700&height=30&lines=Physicist+turned+Machine+Learning+Engineer;Agentic+AI+%C2%B7+GenAI+%C2%B7+MLOps;From+quantum+information+to+machine+learning;Independent+experiments%2C+notebooks+%26+side+projects" alt="typing" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isadays&style=for-the-badge&color=9D7CFF&label=PROFILE+VIEWS" />
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/focus-agentic%20AI%20%26%20GenAI-A78BFA?style=for-the-badge&labelColor=1A1B27" />
+<img src="https://img.shields.io/badge/building%20with-python%20%C2%B7%20aws-A78BFA?style=for-the-badge&labelColor=1A1B27" />
+<img src="https://img.shields.io/badge/based%20in-S%C3%A3o%20Paulo-A78BFA?style=for-the-badge&labelColor=1A1B27" />
+<img src="https://komarev.com/ghpvc/?username=isadays&label=profile%20views&color=A78BFA&labelColor=1A1B27&style=for-the-badge" />
 
+</div>
 
-## Tech Stack
+<br/>
 
-**AI / ML & GenAI**
+### `~/about`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117)
-![LangGraph](https://img.shields.io/badge/LangGraph-9D7CFF?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0D1117)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
-![vLLM](https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117)
-![Optuna](https://img.shields.io/badge/Optuna-2B6CB0?style=for-the-badge&logo=optuna&logoColor=white&labelColor=0D1117)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=0D1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117)
+This profile is my lab notebook. My day job lives on LinkedIn; what lives here is the independent work — studies, experiments and projects I build to understand a technique end to end, from the math to the running code.
 
-**Languages & Backend**
+- **Physics first.** I came to ML from mathematical physics and quantum information, and I still approach models the way I approach a physical system: assumptions, derivation, then experiment.
+- **Learning in public.** Many repos here are structured study tracks — unsupervised methods, deep learning fundamentals, distributed processing — written to be re-read and reused.
+- **Current obsession.** How to measure LLM and agent systems honestly: evaluation design, LLM-as-Judge reliability, determinism and cost-aware inference.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0D1117)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
+<br/>
 
-**Cloud, DevOps & Infra**
+### `~/now`
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117)
-![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=4DB6AC&labelColor=0D1117)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-0F62FE?style=for-the-badge&logo=ibmcloud&logoColor=white&labelColor=0D1117)
+```text
+exploring   →  agent evaluation harnesses · LLM-as-Judge calibration
+reading     →  retrieval quality metrics · cost-aware inference
+revisiting  →  quantum information ideas that map onto ML
+```
 
-**Data, Databases & Observability**
+<br/>
 
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![Amazon Aurora](https://img.shields.io/badge/Aurora-232F3E?style=for-the-badge&logo=amazonrds&logoColor=527FFF&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
-![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logo=tracemoe&logoColor=white&labelColor=0D1117)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B&labelColor=0D1117)
+### `~/projects`
 
----
+<div align="center">
 
-## GitHub Stats
+<a href="https://github.com/isadays/Unsupervised-ML"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=isadays&repo=Unsupervised-ML&theme=midnight-purple&bg_color=1A1B27&title_color=E9D5FF&icon_color=A78BFA&text_color=C4B5FD&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/isadays/DeepLearning"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=isadays&repo=DeepLearning&theme=midnight-purple&bg_color=1A1B27&title_color=E9D5FF&icon_color=A78BFA&text_color=C4B5FD&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/isadays/ApacheSystemML"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=isadays&repo=ApacheSystemML&theme=midnight-purple&bg_color=1A1B27&title_color=E9D5FF&icon_color=A78BFA&text_color=C4B5FD&hide_border=true&border_radius=10" /></a>
+<a href="https://github.com/isadays/Embeddings"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=isadays&repo=Embeddings&theme=midnight-purple&bg_color=1A1B27&title_color=E9D5FF&icon_color=A78BFA&text_color=C4B5FD&hide_border=true&border_radius=10" /></a>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isadays&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadays&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&langs_count=8" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isadays&theme=midnight-purple&hide_border=true&background=0D1117" />
-</p>
+| Project | What it explores | Stack |
+| :--- | :--- | :--- |
+| [**Unsupervised-ML**](https://github.com/isadays/Unsupervised-ML) | Clustering, factor analysis and correspondence analysis, implemented side by side in R and Python. | Python · R · scikit-learn |
+| [**DeepLearning**](https://github.com/isadays/DeepLearning) | Regularization, batching, optimizers, hyperparameters and cross-validation, built from first principles. | Python · PyTorch |
+| [**ApacheSystemML**](https://github.com/isadays/ApacheSystemML) | Activity prediction on distributed data — processing, preparation and modelling with PySpark. | PySpark · Spark ML |
+| [**Embeddings**](https://github.com/isadays/Embeddings) | Testing the quality and robustness of categorical embeddings on a low-feature flight-price dataset. | Python · Deep Learning |
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isadays&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isadays&theme=react-dark&bg_color=0D1117&color=9D7CFF&line=9D7CFF&point=FFFFFF&hide_border=true&area=true" />
-</p>
+### `~/stack`
 
----
+<div align="center">
 
-## Certifications & Research
+<sub><b>AI · ML · GENAI</b></sub><br/>
+<img src="https://img.shields.io/badge/PyTorch-1A1B27?style=for-the-badge&logo=pytorch&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LangChain-1A1B27?style=for-the-badge&logo=langchain&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LangGraph-1A1B27?style=for-the-badge&logo=langgraph&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Bedrock-1A1B27?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Hugging%20Face-1A1B27?style=for-the-badge&logo=huggingface&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/MLflow-1A1B27?style=for-the-badge&logo=mlflow&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/scikit--learn-1A1B27?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" />
 
-- **AWS Certified Generative AI Developer – Professional** (2026)
-- **AWS Certified Machine Learning Engineer – Associate** (2025)
-- **Certified Partner Specialist, Gemini Enterprise Agent Development** — Google Cloud (2026)
-- **IBM Generative & Agentic AI Developer** (2026)
-- **Deep Learning Specialization** — DeepLearning.AI (2023)
-- Researching: agent evaluation, LLM-as-Judge reliability, retrieval quality metrics and cost-aware inference.
+<sub><b>LANGUAGES · DATA</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/R-1A1B27?style=for-the-badge&logo=r&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/SQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/PySpark-1A1B27?style=for-the-badge&logo=apachespark&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/FastAPI-1A1B27?style=for-the-badge&logo=fastapi&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/ClickHouse-1A1B27?style=for-the-badge&logo=clickhouse&logoColor=A78BFA" />
 
-**Recognition** — IBM Top Performer (top 15%, 2026) · Early Merit Award, BTG Bank (2025) · Two Erasmus scholarships, Uppsala University (2022)
+<sub><b>CLOUD · INFRA</b></sub><br/>
+<img src="https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Google%20Cloud-1A1B27?style=for-the-badge&logo=googlecloud&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Terraform-1A1B27?style=for-the-badge&logo=terraform&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1A1B27?style=for-the-badge&logo=githubactions&logoColor=A78BFA" />
 
----
+</div>
 
-## Connect
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/diasplisabela"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-  <a href="mailto:isabeladiaspl@icloud.com"><img src="https://img.shields.io/badge/Email-9D7CFF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://www.credly.com/users/isabela-dias.40ec2c31/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://huggingface.co/isadays"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" /></a>
-  <a href="https://kaggle.com/isadays"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D1117" /></a>
-</p>
+### `~/education`
 
-<p align="center"><sub>Portuguese (native) · English (C1) · Swedish (C1)</sub></p>
+| | Degree | Institution | Year |
+| :---: | :--- | :--- | :---: |
+| 🎓 | **M.Sc., Mathematical Physics** — quantum information & computation | University of São Paulo · exchange year at Uppsala University, Sweden | 2023 |
+| 📊 | **MBA, Data Science & Analytics** | University of São Paulo | 2024 |
+| ⚛️ | **B.Sc., Physics** | Federal University of São Carlos | 2021 |
+
+<div align="center">
+
+<sub><b>CERTIFICATIONS</b> · <a href="https://www.credly.com/users/isabela-dias.40ec2c31/badges">verify on Credly</a></sub><br/>
+<img src="https://img.shields.io/badge/AWS-GenAI%20Developer%20Pro-A78BFA?style=for-the-badge&labelColor=1A1B27&logo=amazonwebservices&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-A78BFA?style=for-the-badge&labelColor=1A1B27&logo=amazonwebservices&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Gemini%20Agent%20Dev-A78BFA?style=for-the-badge&labelColor=1A1B27&logo=googlecloud&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/IBM-Gen%20%26%20Agentic%20AI-A78BFA?style=for-the-badge&labelColor=1A1B27&logo=ibm&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/DeepLearning.AI-DL%20Specialization-A78BFA?style=for-the-badge&labelColor=1A1B27" />
+
+</div>
+
+<br/>
+
+### `~/stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isadays&show_icons=true&theme=midnight-purple&bg_color=1A1B27&title_color=E9D5FF&icon_color=A78BFA&text_color=C4B5FD&hide_border=true&border_radius=10&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadays&layout=compact&theme=midnight-purple&bg_color=1A1B27&title_color=E9D5FF&text_color=C4B5FD&hide_border=true&border_radius=10&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=isadays&theme=midnight-purple&background=1A1B27&ring=A78BFA&fire=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B7FB8&stroke=2D2B45&hide_border=true&border_radius=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isadays&bg_color=1A1B27&color=C4B5FD&line=A78BFA&point=E9D5FF&area=true&area_color=A78BFA&title_color=E9D5FF&hide_border=true&radius=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=isadays&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" />
+
+</div>
+
+<br/>
+
+### `~/connect`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/diasplisabela"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:isabeladiaspl@icloud.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=icloud&logoColor=A78BFA" /></a>
+<a href="https://www.credly.com/users/isabela-dias.40ec2c31/badges"><img src="https://img.shields.io/badge/Credly-1A1B27?style=for-the-badge&logo=credly&logoColor=A78BFA" /></a>
+<a href="https://huggingface.co/isadays"><img src="https://img.shields.io/badge/Hugging%20Face-1A1B27?style=for-the-badge&logo=huggingface&logoColor=A78BFA" /></a>
+<a href="https://kaggle.com/isadays"><img src="https://img.shields.io/badge/Kaggle-1A1B27?style=for-the-badge&logo=kaggle&logoColor=A78BFA" /></a>
+
+<br/><br/>
+
+<sub>Português · English · Svenska</sub>
+
+</div>
