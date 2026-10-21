@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/focus-agentic%20AI%20%26%20GenAI-24292F?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/building%20with-python%20%C2%B7%20aws-24292F?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/based%20in-S%C3%A3o%20Paulo-24292F?style=for-the-badge&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=isadays&label=profile%20views&color=24292F&labelColor=000000&style=for-the-badge" />
 
 </div>
 
