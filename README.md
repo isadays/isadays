@@ -17,11 +17,10 @@
 
 ### `~/about`
 
-This profile is my lab notebook. My day job lives on LinkedIn; what lives here is the independent work — studies, experiments and projects I build to understand a technique end to end, from the math to the running code.
+This profile is my lab notebook. 
 
 - **Physics first.** I came to ML from mathematical physics and quantum information, and I still approach models the way I approach a physical system: assumptions, derivation, then experiment.
 - **Learning in public.** Many repos here are structured study tracks — unsupervised methods, deep learning fundamentals, distributed processing — written to be re-read and reused.
-- **Current obsession.** How to measure LLM and agent systems honestly: evaluation design, LLM-as-Judge reliability, determinism and cost-aware inference.
 
 <br/>
 
